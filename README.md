@@ -10,12 +10,13 @@
 </div>
 
 
-## ✒️ Overview
+## :moyai: Overview
 
 The aim of this project is to create an IFC viewer with specialized functionality for the shopfloor. Generic BIM viewers cannot be customized much, which causes often used functions to be hard to reach. This viewer tends to solve that issue, by only implementing what's necessary in a convenient way.
   
+<br />
 
-#### :books: Packages used:
+## :books: Packages used:
 
 **`electron`** allows the creation of desktop applications with JavaScript by providing a runtime with rich native (operating system) APIs.
 
@@ -58,14 +59,18 @@ $  npm run  electron-pack
 
 ```
 
-### :memo: Contents
+<br />
+
+## :memo: Contents
 
 - `src/App.svelte`: IFC viewer and the logic behind it
 - `src/Icon.svelte`: Component to serve icons dynamically
 - `src/Help.svelte`: Component which creates the 'help' overlay
 - `public/global.css`: Styling of the viewer
 
-### :construction: Functionalities and future implementations
+<br />
+
+## :construction: Functionalities and future implementations
 
 - [x] IFC viewer: geometry and data
 - [x] Creating subsets based on custom property
@@ -79,13 +84,17 @@ $  npm run  electron-pack
 
 - [ ] Ability to select path for custom properties?
 
-## Authors
+<br />
+
+## ✒️ Author
 
 Stijn Nijhuis
 - [LinkedIn](https://www.linkedin.com/in/stijn-nijhuis-56593524a/)
 - [GitHub](https://github.com/Nomeon)
 
-## Acknowledgments
+<br />
+
+## :heavy_check_mark: Acknowledgments
 
 Inspiration, code snippets, etc.
 
